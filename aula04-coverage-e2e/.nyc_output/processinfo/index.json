@@ -1,0 +1,1 @@
+{"processes":{"8b2f0a2b-e8c7-46bc-9e9a-ea6a539c8165":{"parent":null,"children":["9c96b005-ed08-42c7-96dd-344076811230"]},"9c96b005-ed08-42c7-96dd-344076811230":{"parent":"8b2f0a2b-e8c7-46bc-9e9a-ea6a539c8165","children":[]}},"files":{"/Users/marcoscastelo/Courses/jsexpert/aula04-coverage-e2e/api.js":["9c96b005-ed08-42c7-96dd-344076811230"]},"externalIds":{}}
