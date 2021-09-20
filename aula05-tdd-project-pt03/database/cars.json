@@ -1,0 +1,23 @@
+[
+  {
+    "id": "ff3a663b-a728-4ca8-933c-082d82e34a47",
+    "name": "Aventador",
+    "releaseYear": 2020,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "bbf1f26e-0bd7-4ce3-b330-39455f6e99f9",
+    "name": "XTS",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "4a24e1d7-d306-489c-a9da-be6182dd3b4f",
+    "name": "Escalade",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  }
+]
